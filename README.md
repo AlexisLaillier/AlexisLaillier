@@ -16,13 +16,13 @@ Actuellement en BUT MMI à l'IUT de Troyes, je me spécialise dans le développe
 
 ## Mes statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=La-loutrasse&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLaillier&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
 ## Mes Langages et Technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-loutrasse&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisLaillier&layout=compact&theme=tokyonight)
 
 ### 🎯 Compétences & technologies en apprentissage :
 - Front-end
@@ -43,13 +43,16 @@ Actuellement en BUT MMI à l'IUT de Troyes, je me spécialise dans le développe
   - **Illustrator**
   - **Clip Studio Paint**
 
+ - Autre :
+   - Blender 3D / 2D animation   
+
 ---
 
 ## Comment me contacter ?
 
 Si tu veux discuter de projets, partager des idées ou simplement échanger, n'hésite pas à me contacter !  
 
-📧 Email : [sleepyy.contact@gmail.com](mailto:sleepyy.contact@gmail.com)  
+📧 Email : [laillier.alexis2004@gmail.com](mailto:laillier.alexis2004@gmail.com)  
 📱 instagram : [@la_loutrasse_17](https://www.instagram.com/la_loutrasse_17/)  
 💬 Discord : la_loutrasse_
 
